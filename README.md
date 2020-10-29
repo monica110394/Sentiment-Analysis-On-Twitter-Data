@@ -5,3 +5,5 @@ ULMFiT proposed by Jeremy Howard and NUI Galway Insight Center’s Sebastian Rud
 
 Main Reference -> https://medium.com/technonerds/using-fastais-ulmfit-to-make-a-state-of-the-art-multi-label-text-classifier-bf54e2943e83<br>
 Document for FastAI -> https://docs.fast.ai/text.data.html#TextLMDataBunch
+
+Google Colab -> https://drive.google.com/drive/folders/1wF6QNvJ21eghM3P8JaCH3UV4irbYVqTz
